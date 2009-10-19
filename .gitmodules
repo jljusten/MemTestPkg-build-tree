@@ -1,0 +1,9 @@
+[submodule "MemTestPkg"]
+	path = MemTestPkg
+	url = ../MemTestPkg
+[submodule "MdePkg"]
+	path = MdePkg
+	url = ../edk2-MdePkg
+[submodule "MdeModulePkg"]
+	path = MdeModulePkg
+	url = ../edk2-MdeModulePkg
