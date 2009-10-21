@@ -7,3 +7,9 @@
 [submodule "MdeModulePkg"]
 	path = MdeModulePkg
 	url = ../edk2-MdeModulePkg
+[submodule "BaseTools"]
+	path = BaseTools
+	url = ../edk2-BaseTools
+[submodule "Conf"]
+	path = Conf
+	url = ../edk2-Conf
