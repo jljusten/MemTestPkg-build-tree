@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 if [ -z "$EDK_TOOLS_PATH" ]
+then
   export EDK_TOOLS_PATH=`pwd`/BaseTools
 fi
 if [ -z "$WORKSPACE" ]
